@@ -3,10 +3,10 @@
 #           SETTINGS FOR YOUR PACKAGE
 #----------------------------------------------------------------------
 
-# Package name for your 
+# Package name for your
 PKG_NAME := eliom-widgets
-PKG_VERS := your version
-PKG_DESC := your description
+PKG_VERS := 0.1
+PKG_DESC := Widgets for client-server Web applications written with Eliom
 
 # Source files for the server
 SERVER_FILES := $(wildcard src/*.eliom* src/experimental/*.eliom* )
